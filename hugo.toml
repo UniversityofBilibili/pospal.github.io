@@ -1,0 +1,4 @@
+baseURL = 'https://pospal.github.io/'
+languageCode = 'en-us'
+title = 'PosPal Training Video Website'
+theme = 'hugo-paper-main'
